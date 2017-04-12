@@ -1,7 +1,7 @@
 # SpecialCVAH
 Temp App Store for containers
 
-GitHub does not allow for size of containers so sharing containers on here is a no go.  Containers have been moved over to DockerHub.
+GitHub does not allow for the size of containers so sharing containers on here is a no go.  Containers have been moved over to DockerHub.
 
 Instructions:
 1. Pull the containers from DockerHub (Docker pull duckmanjbr/*container_name*)
